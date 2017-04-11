@@ -1,7 +1,7 @@
 import {Theme} from './Theme';
 
 export class DarkTheme implements Theme {
-  public getColor() {
+  public getColor():string {
     return `dark black`;
   }
 }

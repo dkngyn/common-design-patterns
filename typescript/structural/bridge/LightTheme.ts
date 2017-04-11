@@ -1,7 +1,7 @@
 import {Theme} from './Theme';
 
 class LightTheme implements Theme {
-  public getColor() {
+  public getColor():string {
     return `off white`;
   }
 }

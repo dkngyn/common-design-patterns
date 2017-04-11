@@ -1,7 +1,7 @@
 import {Theme} from './Theme';
 
 class AquaTheme implements Theme {
-  public getColor() {
+  public getColor():string {
     return `light blue`;
   }
 }

@@ -1,5 +1,5 @@
 export class WildDog {
-  public bark() {
+  public bark():void {
     console.log('woof woof');
   }
 }

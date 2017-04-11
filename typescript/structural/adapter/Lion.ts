@@ -1,3 +1,3 @@
 export interface Lion {
-  roar();
+  roar():void;
 }

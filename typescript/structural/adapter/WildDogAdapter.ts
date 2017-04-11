@@ -8,7 +8,7 @@ export class WildDogAdapter implements Lion {
     this.dog = dog;
   }
 
-  public roar() {
+  public roar():void {
     this.dog.bark();
   }
 }
