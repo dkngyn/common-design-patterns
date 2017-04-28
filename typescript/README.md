@@ -25,3 +25,11 @@
     - [strategy](./behavioral/strategy)
     - [state](./behavioral/state)
     - [template method](./behavioral/template)
+
+
+#### Usage
+```
+$ cd [selected pattern]
+$ tsc Main.ts
+$ node Main.js
+```
