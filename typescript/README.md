@@ -1,29 +1,27 @@
-```
-[typescript](./tree/master/typescript)
-|-- [creational](./tree/master/typescript/creational)
-|   |-- [simple factory](./tree/master/typescript/creational/simple-factory)
-|   |-- factory method
-|   |-- abstract factory
-|   |-- builder
-|   |-- prototype
-|   |-- singleton
-|-- structural
-|   |-- adapter
-|   |-- bridge
-|   |-- composite
-|   |-- decorator
-|   |-- facade
-|   |-- flyweight
-|   |-- proxy
-|-- behavioral
-|   |-- chain of responsibility
-|   |-- command
-|   |-- iterator
-|   |-- mediator
-|   |-- memento
-|   |-- observer
-|   |-- visitor
-|   |-- strategy
-|   |-- state
-|   |-- template method
-```
+- [typescript](./tree/master/typescript)
+  - [creational](./tree/master/typescript/creational)
+    - [simple factory](./tree/master/typescript/creational/simple-factory)
+    - [factory method](./tree/master/typescript/creational/factory-method)
+    - [abstract factory](./tree/master/typescript/creational/abstract-factory)
+    - [builder](./tree/master/typescript/creational/builder)
+    - [prototype](./tree/master/typescript/creational/prototype)
+    - [singleton](./tree/master/typescript/creational/singleton)
+  - [structural](./tree/master/typescript/structural)
+    - [adapter](./tree/master/typescript/structural/adapter)
+    - [bridge](./tree/master/typescript/structural/bridge)
+    - [composite](./tree/master/typescript/structural/composite)
+    - [decorator](./tree/master/typescript/structural/decorator)
+    - [facade](./tree/master/typescript/structural/facade)
+    - [flyweight]('./tree/master/typescript/structural/flyweight')
+    - [proxy](./tree/master/typescript/structural/proxy)  
+  - [behavioral](./tree/master/typescript/behavioral)
+    - [chain of responsibility](./tree/master/typescript/behavioral/chain-of-responsibility)
+    - [command](./tree/master/typescript/behavioral/command)
+    - [iterator](./tree/master/typescript/behavioral/iterator)
+    - [mediator](./tree/master/typescript/behavioral/mediator)
+    - [memento](./tree/master/typescript/behavioral/memento)
+    - [observer](./tree/master/typescript/behavioral/observer)
+    - [visitor](./tree/master/typescript/behavioral/visitor)
+    - [strategy](./tree/master/typescript/behavioral/strategy)
+    - [state](./tree/master/typescript/behavioral/state)
+    - [template method](./tree/master/typescript/behavioral/template)
