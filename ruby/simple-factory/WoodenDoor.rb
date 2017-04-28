@@ -3,8 +3,7 @@ require_relative 'Door'
 class WoodenDoor
   include Door
 
-  @width;
-  @height;
+  attr_reader :width, :height
 
   def initialize(width, height)
     @width = width
